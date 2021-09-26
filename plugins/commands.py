@@ -22,16 +22,9 @@ from pyrogram import Client, filters
 
 
 
-HOME_TEXT = "👋🏻 **Hi I am Rohit made by @sakuta_0"
+HOME_TEXT = "👋🏻 **Hi I am Rohit made by @sakuta_0 and @sparkysunny. I can play music"
 HELP = """🏷️ **Need Help?** 🤔
 __(Ask @sakuta_0)__
-
-🏷️ **Common Commands**:
-\u2022 `/play` reply to an audio to play or queue it
-\u2022 `/help` shows help for commands
-\u2022 `/playlist` shows the playlist
-\u2022 `/current` shows playing time of current track
-\u2022 `/song` [song name] download the song as audio
 
 🏷️ **Admin Commands**:
 \u2022 `/skip` [n] skip current or n where n >= 2
